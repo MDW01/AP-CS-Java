@@ -1,0 +1,39 @@
+# Runtime Output
+*.class
+*.log
+*.pid
+*.log.gz
+
+# Package Files
+*.war
+*.ear
+
+# Build
+.gradle/
+build
+classes
+dist
+out
+run
+bin
+
+# Eclipse
+eclipse
+.classpath
+.project
+.settings
+.metadata
+*.launch
+
+# IntelliJ IDEA
+.idea/
+!.idea/codeStyles/*
+*.eml
+*.iml
+*.iws
+*.ipr
+
+# OS Garbage
+.DS_Store
+Thumbs.db
+desktop.ini
